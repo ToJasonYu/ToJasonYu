@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">What I'm Working On...</h2>
+<h2 align="left">What I'm Working On</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
