@@ -11,7 +11,7 @@
 ###
 
 * <p align="left">🔭 Building <strong>Waterloo Food Ratings System</strong> — A full-stack web application using Java, Spring Boot, PostgreSQL, and React that allows students to rate on and off-campus dining options.<br>
-* 📚 I'm currently learning <strong>Advanced Spring Boot configuration and Cloud Infrastructure (Docker/AWS)</strong> for full-stack development.</p>
+* 📚 I'm currently learning <strong>Advanced Spring Boot configuration and Cloud Infrastructure (Kubernetes/AWS)</strong> for full-stack development.</p>
 
 ###
 
