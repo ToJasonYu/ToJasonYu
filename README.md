@@ -10,7 +10,7 @@
 
 ###
 
-* <p align="left">* I'm currently working on Full Stack Development and Machine Learning.</p>
+* <p align="left"> Building cool things: Full Stack Development, Machine Learning, and DevOps!</p>
 
 ###
 
