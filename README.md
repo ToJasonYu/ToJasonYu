@@ -4,7 +4,6 @@
 
 
 
-
 <p align="left">My name is Jason Yu and I'm a Computer Science Student @ University of Waterloo.</p>
 
 ###
